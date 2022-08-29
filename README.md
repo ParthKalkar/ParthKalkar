@@ -14,6 +14,7 @@
  <a href="https://www.instagram.com/erik_phillander/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/ParthKalkar" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="mailto:parthkalkar111@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> <a href="https://www.facebook.com/parth.kalkar/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/uxPlGvoc1TlgPF0deH/200w.webp?cid=ecf05e47z5k3a32t04ano55a5ulic1ictlezlo8raya2l9h4&rid=200w.webp&ct=s" alt="facebook" width="50" height="50"/></a>
       
 <br>
+
 ## ⚙ Some of the Languages and Tools I know
 <br>
 <p align="left">
