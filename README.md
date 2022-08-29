@@ -1,4 +1,4 @@
-## Hi there! ![Alt Text](https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J) :grinning:
+## Hi there! ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) :grinning:
 
 ✨ My name is `Parth Kalkar` I am a senior computer science student with data science majors ✨
 
