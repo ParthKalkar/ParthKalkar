@@ -15,7 +15,7 @@
       
 <br>
 
-## ⚙ Some of the Languages and Tools I know
+## ⚙ Languages and Tools
 <br>
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.webp?cid=ecf05e47hpmrfe46yfbz14y8p6wkjqg4kj5hjpffjn2zan9d&rid=giphy.webp&ct=s" alt="tensorflow" width="50" height="50"/></a> &nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> &nbsp; <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> &nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://media0.giphy.com/media/p7l6subf8WlFK/200.webp?cid=ecf05e472j8ufhiqbsz74tfghvw67xyg4skm5z8ejqldvg6f&rid=200.webp&ct=s" alt="pandas" width="50" height="50"/> </a> &nbsp; <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="50" height="50"/> </a>  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="50" height="50"/> </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" alt="Matplotlib" width="60" height="40"/> </a>  &nbsp;  <a href="https://github.com/Jayveersinh-Raj" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e475lboadlycpr8ejchbq584fcya6227vclc9oldkp7&rid=200.webp&ct=s" alt="Github" width="50" height="50"/> </a>
@@ -45,9 +45,11 @@
 <br>
  
  ## 💻 Some of the big Projects undertaken
-  1. IOT based anamoly detection
-  2. Diaster prediction with NLP
-  3. Console based AI bot
-  4. Backend developer for IT department of Innopolis University
-  5. NLP based settleable cases detector (net based consumer court)(ongoing)
-  6. Computer vision based smart city security, detecting people gathering or threat (ongoing)
+  1. AI-Art: Implementation of a genetic algorithm to develop some filter for a picture
+  2. Fake face generation using GAN
+  3. Malware Detection using Ensemble Learning
+  4. Calculating human iris center using CNN
+  5. Loan application approval using logistic regression
+  6. Data Imputation using Linear/Polynomial Regression
+  7. Music creation by the implementation of Recurrent Neural Networks
+  8. Other projects related to recommender systems, anomaly detection, online learning, Map-reduce, et
