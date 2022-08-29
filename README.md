@@ -1,6 +1,6 @@
 ## Hi there! :grinning:
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) 
+![Alt Text]<iframe src="https://giphy.com/embed/xUPGGDNsLvqsBOhuU0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0">via GIPHY</a></p>) 
 
 ✨ My name is `Parth Kalkar` I am a senior computer science student with data science majors ✨
 
