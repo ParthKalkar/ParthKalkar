@@ -5,21 +5,14 @@
 ✨ My name is `Parth Kalkar` I am a senior computer science student with data science majors ✨
 
 
-- 🔭 I’m very curious and passionate about Machine Learning, Deep Learning and Artitical Learning
-- 🌱 I’m currently working to be an expert in TensorFlow
-- 👯 I’m looking to collaborate on ML/DL based ideas
-- 🤔 I’m looking for help with Quantum mechanics, and DL in Quantum mehcanics
-- 💬 Ask me about anything about ML/DL, I am a very enthusiatic communicator
-- 📫 How to reach me: 👆 Click on the icons below 
+- 🔭 I’m very curious and passionate about Big Data, Machine Learning, Deep Learning and Artitical Intelligence
+- 🌱 I’ve keen interest in Data Science, Data Analysis & Visualization, Business Analytics and Data Engineering & Mining - Extraction & Representation
+- 👯 I would be glad to colloborate and discuss some real-life problems that could be solved by Machine Learning
+- 💬 Ask me anything about data science and we could chat over very enthusiastically
+- 📫 How to reach me: 👆 Click on any of the following icons below 
 
  <a href="https://www.instagram.com/erik_phillander/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/ParthKalkar" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="mailto:parthkalkar111@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> <a href="https://www.facebook.com/parth.kalkar/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/uxPlGvoc1TlgPF0deH/200w.webp?cid=ecf05e47z5k3a32t04ano55a5ulic1ictlezlo8raya2l9h4&rid=200w.webp&ct=s" alt="facebook" width="50" height="50"/></a>
       
-- ⚡ Fun fact: I love pokemons, and I play Pokemon Go sometimes. Below is my pokemon team 👇, 
-                please contact me if you too love Pokemons
-
-<a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/1DKTZfbVTEVhZzLvf7/200w.webp?cid=ecf05e4731v2z6673faxjq2u7zudlcr7f4sskwswk9b7713f&rid=200w.webp&ct=s" alt="instagram" width="60" height="60"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/RcrmwyUY4KTpgSxk2n/200w.webp?cid=ecf05e47emutiodxx4kkcovs5xm9kzm9d8lgbabz51291fl2&rid=200w.webp&ct=s" alt="instagram" width="65" height="65"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/5QgvJuOFbSbsM5PptG/200w.webp?cid=ecf05e47txbcokdwiod7mrxd9dbrz9nrtwi9etvvdhxdr0ni&rid=200w.webp&ct=s" width="60" height="60"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"><img src="https://media2.giphy.com/media/eJjBP5o1N8tR7Hem2g/200.webp?cid=ecf05e475svvj8poghnh4sd8kj6mokanoqfdcmacb1fdhzvz&rid=200.webp&ct=s" alt="instagram" width="60" height="60"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/jv12lWXeYBt6R2QLzm/200w.webp?cid=ecf05e47qjkge4guwf5zvx4iqjwl9054kcgjbb556sajnt1k&rid=200w.webp&ct=s" alt="instagram" width="65" height="65"/></a> <a href="https://www.instagram.com/jayveersinh_raj/" target="_blank" rel="noreferrer"><img src="https://c.tenor.com/CK9my8e9OR0AAAAj/dahii-gallade.gif" alt="instagram" width="60" height="60"/></a>
-<br>
-<br>
 <br>
 ## ⚙ Some of the Languages and Tools I know
 <br>
@@ -36,7 +29,7 @@
 <br>
 
 ## 📖 Education 
- Bachelors 3rd year Data Science Majors
+ Bachelors 4th year Data Science Majors
  
 <br>
 <br>
