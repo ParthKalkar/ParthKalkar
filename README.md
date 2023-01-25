@@ -1,56 +1,42 @@
-## Hi there! :wave:
+<h1 align="center">Hi 👋, I'm Parth Kalkar</h1>
+<h3 align="center">Data is my passion and full-stack expertise is my superpower.</h3>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthkalkar&label=Profile%20views&color=0e75b6&style=flat" alt="parthkalkar" /> </p>
 
-✨ My name is `Parth Kalkar` I am a senior computer science student with data science majors ✨
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthkalkar" alt="parthkalkar" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/kalkar_parth" target="blank"><img src="https://img.shields.io/twitter/follow/kalkar_parth?logo=twitter&style=for-the-badge" alt="kalkar_parth" /></a> </p>
 
-- 🔭 I’m very curious and passionate about Big Data, Machine Learning, Deep Learning and Artitical Intelligence
-- 🌱 I’ve keen interest in Data Science, Data Analysis & Visualization, Business Analytics and Data Engineering & Mining - Extraction & Representation
-- 👯 I would be glad to colloborate and discuss some real-life problems that could be solved by Machine Learning
-- 💬 Ask me anything about data science and we could chat over very enthusiastically
-- 📫 How to reach me: 👆 Click on any of the following icons below 
+- 🌱 I’m currently learning **Pytorch, Tensorflow**
 
- <a href="https://www.instagram.com/erik_phillander/" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/eTtXHP8CyQHHa4M8EM/200w.webp?cid=ecf05e47w70y4ti9kcbgc0d174dub29rv6s4yhuhbh00709m&rid=200w.webp&ct=s" alt="instagram" width="50" height="50"/></a>   &nbsp;   <a href="https://t.me/ParthKalkar" target="_blank" rel="noreferrer"> <img src="https://c.tenor.com/s-XyqNCtw7QAAAAi/telegram.gif" alt="telegram" width="50" height="50"/></a> &nbsp; <a href="mailto:parthkalkar111@gmail.com" target="_blank" rel="noreferrer"> <img src="https://media4.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.webp?cid=ecf05e478tpxg3xdjlmb9f8nptfokgkhk2v6kfmfxnrj8n5g&rid=giphy.webp&ct=s" alt="mail" width="60" height="60"/></a> <a href="https://www.facebook.com/parth.kalkar/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/uxPlGvoc1TlgPF0deH/200w.webp?cid=ecf05e47z5k3a32t04ano55a5ulic1ictlezlo8raya2l9h4&rid=200w.webp&ct=s" alt="facebook" width="50" height="50"/></a>
-      
-<br>
-<br>
+- 👨‍💻 All of my projects are available at [https://github.com/ParthKalkar](https://github.com/ParthKalkar)
 
-## ⚙ Languages and Tools
-<br>
+- 📝 I regularly share my projects on [https://www.linkedin.com/in/parthkalkar/](https://www.linkedin.com/in/parthkalkar/)
+
+- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision**
+
+- 📫 How to reach me **parthkalkar111@gmail.com**
+
+- 📄 Know more about me [https://twitter.com/kalkar_parth](https://twitter.com/kalkar_parth)
+
+- ⚡ Fun fact **I bridge the gap between data and decision-making.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.webp?cid=ecf05e47hpmrfe46yfbz14y8p6wkjqg4kj5hjpffjn2zan9d&rid=giphy.webp&ct=s" alt="tensorflow" width="50" height="50"/></a> &nbsp; <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> &nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> &nbsp; <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> &nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://media0.giphy.com/media/p7l6subf8WlFK/200.webp?cid=ecf05e472j8ufhiqbsz74tfghvw67xyg4skm5z8ejqldvg6f&rid=200.webp&ct=s" alt="pandas" width="50" height="50"/> </a> &nbsp; <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="50" height="50"/> </a>  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="50" height="50"/> </a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" alt="Matplotlib" width="60" height="40"/> </a>  &nbsp;  <a href="https://github.com/Jayveersinh-Raj" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e475lboadlycpr8ejchbq584fcya6227vclc9oldkp7&rid=200.webp&ct=s" alt="Github" width="50" height="50"/> </a>
+<a href="https://twitter.com/kalkar_parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalkar_parth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parthkalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthkalkar" height="30" width="40" /></a>
+<a href="https://kaggle.com/parthkalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parthkalkar" height="30" width="40" /></a>
+<a href="https://fb.com/parth.kalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parth.kalkar" height="30" width="40" /></a>
+<a href="https://instagram.com/erik_phillander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erik_phillander" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/erikphil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="erikphil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/erik_phillander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erik_phillander" height="30" width="40" /></a>
+</p>
 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img alt="Jupyter Notebook" width="50" height="50" src="https://img.icons8.com/fluency/344/jupyter.png"></a> &nbsp; <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img alt="React" width="50" height="50" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e47xgjadiso624stjb4qu4yvdu57rpz12lk0d6t38qk&rid=200w.webp&ct=s"></a>  &nbsp;  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img alt="postgres" width="50" height="50" src="https://img.icons8.com/color/344/postgreesql.png" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp?cid=ecf05e47v32fb9lwgerup3mp93jolrnmadrswh6lek4qz0pu&rid=200w.webp&ct=s" alt="JavaScript" width="50" height="50"/></a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>  &nbsp;  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://media0.giphy.com/media/RDgDB1Bqo6sQnHOVZf/200w.webp?cid=ecf05e47oiplmewdzm524ug3f7xmwi3otqau3389qsvxv7y9&rid=200w.webp&ct=s" alt="Docker" width="50" height="50"/> </a>    &nbsp;   <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/nodejs.png" alt="Node" width="50" height="50"/> </a> &nbsp; <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-5-1175140.png" alt="MongoBD" width="50" height="50"/> </a>   &nbsp;       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp?cid=ecf05e473jsalgnr0edawythfdeh3o2gnrisk725vn7x9n72&rid=200.webp&ct=s" alt="python" width="50" height="50"/> </a>    </p>
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkalkar&show_icons=true&locale=en&layout=compact" alt="parthkalkar" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthkalkar&show_icons=true&locale=en" alt="parthkalkar" /></p>
 
-<br>
-<br>
-
-
-## 📖 Education 
- Final year/4th year Data Science student
- 
-<br>
-<br>
-
-
-## 🏛️ University
- <a href="https://innopolis.university/en/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69463767/186536698-346a6c35-a42f-4726-9377-94d56e92b1ec.png" alt="IU" width="60" height="60"/></a><br>
- Innopolis University, Tatarstan, Russia  
-
-<br>
-<br>
-
- 
- ## 💻 Some of the big Projects undertaken
-  1. AI-Art: Implementation of a genetic algorithm to develop some filter for a picture
-  2. Fake face generation using GAN
-  3. Malware Detection using Ensemble Learning
-  4. Calculating human iris center using CNN
-  5. Loan application approval using logistic regression
-  6. Data Imputation using Linear/Polynomial Regression
-  7. Music creation by the implementation of Recurrent Neural Networks
-  8. Other projects related to recommender systems, anomaly detection, online learning, Map-reduce, et
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkalkar&" alt="parthkalkar" /></p>
