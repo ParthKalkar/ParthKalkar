@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/kalkar_parth" target="blank"><img src="https://img.shields.io/twitter/follow/kalkar_parth?logo=twitter&style=for-the-badge" alt="kalkar_parth" /></a> </p>
 
+- 🔭 I’m currently working on **Computer Vision**
+
 - 🌱 I’m currently learning **Pytorch, Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ParthKalkar](https://github.com/ParthKalkar)
@@ -25,11 +27,13 @@
 <p align="left">
 <a href="https://twitter.com/kalkar_parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalkar_parth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parthkalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthkalkar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16078720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16078720" height="30" width="40" /></a>
 <a href="https://kaggle.com/parthkalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parthkalkar" height="30" width="40" /></a>
 <a href="https://fb.com/parth.kalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parth.kalkar" height="30" width="40" /></a>
 <a href="https://instagram.com/erik_phillander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erik_phillander" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/erikphil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="erikphil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/erik_phillander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erik_phillander" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/erik_phillander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="erik_phillander" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
